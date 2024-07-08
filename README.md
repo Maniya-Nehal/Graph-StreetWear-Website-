@@ -1,0 +1,2 @@
+This is my first ever website after completing a CSS course. Though I believed I should have practiced before and then jumped into building my own site but this was so much fun. I opted for the color pallet solely because it matched the shirt's brown colors. I had so much fun and learned a lot. I can't wait to learn JS to i create even more dynamic and cool websites. 
+(ps: All copyrights to the owner of the pictures. They were used for practice only  and I don't claim ownership of the pictures)
